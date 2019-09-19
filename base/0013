@@ -1,0 +1,7 @@
+d
+Supondo que existam dois sistemas Linux instalados em um computador. O usuário deseja ássar um parâmetro para o kernel para que o primeiro sistema seja iniciado a partir da terceira partição SCSI. Qual parâmetro deve ser informado no kernel?
+
+[a] vga=/dev/sda3
+[b] init=help
+[c] init=/dev/sda3
+[d] root=/dev/sda3
