@@ -1,2 +1,7 @@
+c
+Supondo que o usuário se encontra no runlevel 2. Por problemas no sistema, sua reinicialização deve ser imediata. Qual opção incorreta?
 
-Supondo que o usuário se encontra no runlevel 2. Por problemas no sistema, sua reinicialização deve ser imediata. Qual comando pode ser usado?
+[a] init6
+[a] telinit 6
+[b] shutdown 6
+[c] shutdown -r now
