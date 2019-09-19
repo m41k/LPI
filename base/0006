@@ -1,0 +1,12 @@
+a
+A respeito do diretório /proc (assinale todas as corretas):
+
+- Pode ser lido por qualquer usuário
+- Seu conteúdo nunca é modificado, a menos que o sistema seja reinicializado.
+- Usado como ponto de montagem para outros diretórios.
+- Mudanças nos arquivos desses diretórios são reconhecidas imediatamente pelo kernel, que de forma inteligente atualiza sua base de dados com os processos em execução.
+
+[a] V, F, F, V
+[b] V, V, F, V
+[c] F, V, V, V
+[d] V, F, V, V 
