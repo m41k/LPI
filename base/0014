@@ -1,0 +1,2 @@
+quiet
+Supondo que um sistema deva ser iniciado sem que mensagens de inicialização (boot) sejam exibidas ao usuário. Qual parâmetro do kernel ser usado na tela do bootloader?
