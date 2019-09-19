@@ -1,0 +1,7 @@
+c
+Supondo que seja necessário enviar a mensagem "Hora do almoço" para todos usuários conectados no sistema. Qual comando será utilizado?
+
+[a] send "hora do almoço"
+[b] message "Hora do almoço"
+[c] wall "Hora do almoço"
+[d] bash "Hora do almoço"
