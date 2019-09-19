@@ -1,0 +1,13 @@
+b
+
+A respeito do udev. Assinale todas corretas:
+
+- Gerencia em tempo real os dispositivos que são inseridos no computador, atualizando os arquvios do diretório /dev.
+- Possibilita que programas troquem mensagens e se comuniquem entre si.
+- Comando usado para listar dispositivos USB do computador.
+- Regras de gerencimaento do udev são arquivos criados no diretório /etc/udev/rules.d.
+
+[a] F, F, V, V 
+[b] V, F, F, V
+[c] V, V, F, F
+[d] F, V, V, V
