@@ -1,0 +1,7 @@
+d
+A respeito do diretório /dev:
+
+[a] Adota o sistema de arquivos do tipo sysfs.
+[b] Adota o sistema de arquivos do tipo procfs. 
+[c] Adota o sistema de arquivos do tipo devfs.
+[d] Adota o sistema de arquivos do tipo tmpfs.
