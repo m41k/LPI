@@ -1,0 +1,12 @@
+c
+Para remover o módulo ehc_pci do kernel, quais comandos podem ser utilizados? Assinale todas corretas.
+
+- modinfo
+- modprobe
+- rmmod
+- insmod
+
+[a] V, V, F, F
+[b] F, V, V, V
+[c] F, V, V, F
+[d] V, V, V, F
