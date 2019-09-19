@@ -1,0 +1,7 @@
+b
+Qual dos seguintes arquivos armazena parâmetros passados ao kernel no momento da inicialização do sistema?
+
+[a] - /proc/ioports
+[b] - /proc/cmdline
+[c] - /proc/interrups
+[d] - /proc/dma
