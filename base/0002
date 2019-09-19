@@ -1,2 +1,7 @@
-ls
-Qual comando para listar documentos?
+d
+A respeito da BIOS:
+
+[a] É o último processdo iniciado pelo kernel.
+[b] É onde são realizadas alterações do bootloader (Grub e Lilo).
+[c] É iniciado somente após a inicialização do kernel.
+[d] Possibilita realizar configurações de hardware.
