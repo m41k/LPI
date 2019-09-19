@@ -1,0 +1,7 @@
+b
+A terceira partição do primeiro dispositivo SCSI será representado como:
+
+[a] /dev/hda3
+[b] /dev/sda3
+[c] /dev/sdc3
+[d] /dev/hdc3
