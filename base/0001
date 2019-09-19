@@ -1,7 +1,7 @@
-a
-Teste
+b
+Supondo que seja necessário iniciar o computador por um dispositivo de armazenamento USD. Para tal, será necessário alterar a ordem de boot do sistema. Em qual lugar essa aleração pode ser feita?
 
-[a] - 1
-[b] - 2
-[c] - 3
-[d] - 4
+[a] - Não há necessidade de se realizar alteração.
+[b] - BIOS.
+[c] - Grub
+[d] - Lilo.
