@@ -1,0 +1,2 @@
+init /sbin/init
+Em sistemas SysV init, o ________ é o primeiro comando a ser iniciado pelo kernel.
