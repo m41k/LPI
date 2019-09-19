@@ -1,0 +1,7 @@
+d
+A correta ordem de inicialização do sistema é:
+
+[a] Kernel, BIOS, bootloader, init.
+[b] BIOS, kernel bootloader, init.
+[c] BIOS, bootloader, init, kernel.
+[d] BIOS, bootloader, kernel, init.
