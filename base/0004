@@ -1,0 +1,7 @@
+a
+A terceira partição de um dispositivo IDE conectado no segundo canal será representado como:
+
+[a] /dev/hdc3
+[b] /dev/sda3
+[c] /dev/hda3
+[d] /dev/sdc3
