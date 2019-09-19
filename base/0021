@@ -1,0 +1,7 @@
+b
+O _______ inicia os processos de forma sequencial. Já o _______ e _______ iniciam de forma paralela
+
+[a] Systemd, SysV init, UPstart
+[b] SysV init, Systemd, UPstart
+[c] UPstart, SysV init, Systemd
+[d] Systemd, UPstart, SysV init
