@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LISTA="https://raw.githubusercontent.com/m41k/quest/master/ls"
+LISTA="https://raw.githubusercontent.com/m41k/quest/master/lsbase"
 wget -qO - $LISTA > /tmp/ls.lpi
 LISTA=/tmp/ls.lpi
 
