@@ -1,0 +1,7 @@
+b
+O principal arquivo de log, com informações sobre a inicialização do sistena, atividades que ocorrem no kernel e no syslog é o:
+
+[a] /log/var/messages
+[b] /var/log/messages
+[c] /log/messages
+[d] /sys/logmessages 
