@@ -1,0 +1,7 @@
+c
+O arquivo _____ exibe informações de dispositivos DMA. Já o arquivo _____ exibe endereços IRQ. E o arquivo _____ exibe informações a respeito de endereços I/O.
+
+[a] /proc/ioports - /proc/dma - /proc/interrupts
+[b] /proc/interrupts - /proc/ioports - /proc/dma
+[c] /proc/dma - /proc/interrupts - /proc/ioports
+[d] /proc/dma - /proc/ioports - /proc/interrupts
