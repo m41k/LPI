@@ -1,0 +1,2 @@
+ldconfig
+Supondo que uma nova biblioteca foi inserida no sistema. Qual é o comando usado para atualizar o arquivo de cache (/etc/ld.so.cache) das bibliotecas compartilhadas?
