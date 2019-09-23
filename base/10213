@@ -1,0 +1,2 @@
+/etc/apt/source.list
+Qual é o arquivo utilizado para configurar repositórios utilizados na insatalação de programas pelo comando apt-get?
