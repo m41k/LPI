@@ -1,0 +1,7 @@
+a
+Qual são os arquivos de configuração do Grub Legacy?
+
+[a] - /boot/grub/menu.lst, /boot/grub/grub.conf
+[b] - /boot/grub/menu.lst, /etc/default/grub
+[c] - /boot/grub/grub.conf, /etc/default/grub
+[d] - /boot/grub/grub.cfg, /boot/grub/grub.conf
