@@ -1,0 +1,7 @@
+d
+Quais dos seguinte diretórios devem ser criados em partições separadas, para evitar o crescimento desenfreado de dados (logs, arquivos temporários etc.)?
+
+[a] - /dev, /sys 
+[b] - /dev, /var 
+[c] - /sys, /tmp
+[d] - /var, /tmp
