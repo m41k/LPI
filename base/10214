@@ -1,0 +1,2 @@
+apt-cahce search gedit
+Digamos que seja necessário onstalar o pacote gedit, porém você não tem certeza se é esse o nome do pacote. Qual é o comando que busca o termo gedi no cache do comando apt?
