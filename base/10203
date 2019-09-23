@@ -1,0 +1,7 @@
+c
+A respeito dos diretórios utilizados como ponto de montagem:
+
+[a] - Arquivos do diretŕoio utilizado como ponto de montagem estão sempre acessíveis, até mesmo quando a montagem é realizada.
+[b] - Somente os diretórios /mnt e /media são usados como ponto de montegem.
+[c] - Qualquer diretório é um provável ponto de montagem, desde que não seja um diretório considerado essencial.
+[d] - Qualquer diretório é um ponto de montagem, porém seus arquivos serão apagados no momento que a montagem for realizada.
