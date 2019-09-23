@@ -1,0 +1,7 @@
+d
+Qual são os arquvios de configuração do Grub 2?
+
+[a] - /boot/grub/menu.lst, /etc/default/grub
+[b] - /etc/default/grub, /boot/grub/grub.conf
+[c] - /boot/grub/grub.conf, /etc/default/grub
+[d] - /etc/default/grub, /boot/grub/grub.cfg
