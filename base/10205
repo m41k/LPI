@@ -1,0 +1,12 @@
+a
+Entre as principais características da LVM, destacam-se (assinale todas as corretas):
+
+- Criação e remoção de volumes lógicos, com fácil redimensionamento do seu tamanho.
+- Criação de snapshots.
+- NO LVM, é difícil a criação e remoção de volumes lógicos.
+- Os dados têm um tamamnhi fixo, não sendo possível o seu redimensionamento.
+
+[a] - V, V, F, F
+[b] - V, F, F, V
+[c] - V, V, V, F
+[d] - F, V, F, F
