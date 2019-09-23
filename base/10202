@@ -1,0 +1,7 @@
+c
+Em uma formatação manual do disco, o seguinte layout foi escolhido para que as seguintes partições ficassem de fora do diretório-raiz (/): /bin, /boot, /home, /lib, /proc, /root, /sys e /var. Essa configuração representa layout de disco errado. Determine quais são os diretórios que não devem ser separados do diretório-raiz(/):
+
+[a] - /bin, /lib, /proc, /boot
+[b] - /bin, /lib, /proc, /root
+[c] - /bin, /lib, /proc, /sys
+[d] - /bin, /lib, /proc, /var
