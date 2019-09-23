@@ -1,0 +1,7 @@
+d
+Após modificar o arquivo /boot/grub/menu.lst, será necessário executar qual comando?
+
+[a] - update-grub
+[b] - grub-install
+[c] - grub-mkconfig
+[d] - Nenhum comando
